@@ -132,7 +132,7 @@
     <ClCompile Include="BasicRockPaperScissors.cpp" />
     <ClCompile Include="BasicTaskManager.cpp" />
     <ClCompile Include="Basic_TextBasedGame.cpp" />
-    <ClCompile Include="Arcade.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="HeadsorTails.cpp" />
   </ItemGroup>
   <ItemGroup>
